@@ -1,0 +1,9 @@
+
+- afficher les spaces sur le premier carroussel en haut de page
+- rajouter les liens pour aller a la page space
+
+Keep in min
+
+attention chaque premiere image des spaces provient du dossier assets
+
+
